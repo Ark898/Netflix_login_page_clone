@@ -2,8 +2,6 @@
 
 This project is a clone of the Netflix homepage created using HTML and CSS. It is a static website that mimics the look and feel of Netflix.
 
-## Demo
-
 ## Screenshot of the Netflix Clone
 ![Screenshot (214)](https://github.com/Ark898/Netflix_login_page_clone/assets/137332440/39e33b04-f669-4ba3-9bf9-6095fd85fd1e)
 
